@@ -17,7 +17,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 #### Repositry Files:
 *README.md:* this explains analysis files/scripts and how they are connected. 
+
 *CodeBook.md:* This explains information about raw and tidy data set and steps to transform to tidy dataset. It also explains variables, the data and transformations
+
 *run_analysis.R:* R script to transform raw data set in a tidy dataset
 
 
